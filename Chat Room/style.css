@@ -1,0 +1,32 @@
+
+.container {
+	background: url('images/black.jpg');
+    padding: 20px;
+    width: 40%;
+    margin-top: 2%;
+}
+
+span
+{
+    color: white;
+}
+
+#chat_box
+{
+/*    width: 90%;*/
+    height:100%;
+    margin-top: 4px;
+}
+.form-group
+{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    color: white;
+}
+
+
+body
+{
+    background: url('images/blue.jpg');
+		font: 15px/1.5 cursive;
+}
