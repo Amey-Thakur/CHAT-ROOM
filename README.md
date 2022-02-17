@@ -1,10 +1,12 @@
 # CHAT-ROOM
  It is a simple Web-Based Chat Application using PHP, MySQL, JavaScript, Ajax.
 
-  - **[Presentation](https://github.com/Amey-Thakur/CHAT-ROOM/blob/main/CHAT%20ROOM%20USING%20HTML%2C%20PHP%2C%20CSS%2C%20JS%2C%20AJAX%20PRESENTATION.pdf)**
+ - **[Presentation](https://github.com/Amey-Thakur/CHAT-ROOM/blob/main/CHAT%20ROOM%20USING%20HTML%2C%20PHP%2C%20CSS%2C%20JS%2C%20AJAX%20PRESENTATION.pdf)**
+
 
 ## Research Paper
->**Chat Room using HTML, PHP, CSS, JS, AJAX**
+
+ >**Chat Room using HTML, PHP, CSS, JS, AJAX**
   
  - **[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Chat%20Room%20using%20HTML%2C%20PHP%2C%20CSS%2C%20JS%2C%20AJAX/IRJET-%20Chat%20Room%20using%20HTML%2C%20PHP%2C%20CSS%2C%20JS%2C%20AJAX.pdf)**
  
