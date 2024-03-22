@@ -27,6 +27,11 @@
    - **[Presentation](http://dx.doi.org/10.13140/RG.2.2.16257.38248)** 
  
    - **[Poster](http://dx.doi.org/10.13140/RG.2.2.19421.95203)**
+
+#
+  
+ ![CHATROOMPOSTER](https://github.com/Amey-Thakur/CHAT-ROOM/assets/54937357/f90ef5a9-36d4-423c-b423-f95f4f02ed06)
+
   
 ---
 
