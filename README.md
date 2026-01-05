@@ -236,12 +236,12 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
 <div align="center">
 
-  [↑ Back to Top](#readme-top)
+[↑ Back to Top](#readme-top)
 
-  [Authors](#authors) · [Overview](#overview) · [Features](#features) · [Structure](#project-structure) · [Quick Start](#quick-start) · [License](#license) · [About](#about-this-repository) · [Acknowledgments](#acknowledgments)
+[Authors](#authors)&nbsp;·&nbsp;[Overview](#overview)&nbsp;·&nbsp;[Features](#features)&nbsp;·&nbsp;[Structure](#project-structure)&nbsp;·&nbsp;[Quick Start](#quick-start)&nbsp;·&nbsp;[License](#license)&nbsp;·&nbsp;[About](#about-this-repository)&nbsp;·&nbsp;[Acknowledgments](#acknowledgments)
 
-  <br>
+<br>
 
-  🔬 [Computer Engineering Project](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING) · 💬 [CHAT-ROOM](https://github.com/Amey-Thakur/CHAT-ROOM)
+🔬 [Computer Engineering Project](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)&nbsp;·&nbsp;💬 [CHAT-ROOM](https://github.com/Amey-Thakur/CHAT-ROOM)
 
 </div>
