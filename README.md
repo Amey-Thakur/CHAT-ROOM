@@ -9,7 +9,7 @@
   [![Frontend](https://img.shields.io/badge/Frontend-AJAX%20%7C%20Bootstrap%20%7C%20jQuery-orange)](https://github.com/Amey-Thakur/CHAT-ROOM)
   [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Karan%20Dhiman-blue)](https://github.com/Amey-Thakur/CHAT-ROOM)
 
-  A web-based real-time messaging interface developed using PHP, AJAX, and MySQL to demonstrate asynchronous communication and dynamic DOM updates.
+  A web-based real-time messaging interface developed using PHP, AJAX, and MySQL to demonstrate asynchronous communication and dynamic Document Object Model (DOM) updates.
 
   **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;&middot;&nbsp; **[Project Demo](https://youtu.be/Aem0k2Dl9fU)**
 
