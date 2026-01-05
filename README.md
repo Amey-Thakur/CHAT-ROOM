@@ -116,32 +116,53 @@ Developed as a mini-project for the **Computer Engineering** curriculum, this to
 ```
 CHAT-ROOM/
 │
-├── Source Code/                     # Application Source Files
-│   ├── images/                      # Interface & Logo Assets
-│   ├── sound/                       # Audio Notification Signals
-│   ├── sql database/                # Database Schema
-│   │   └── chat_info.sql            # MySQL Table Definition
-│   ├── chat.php                     # AJAX Message Fetching Logic
-│   ├── db.php                       # Database Connection & Formatting
-│   ├── index.php                    # Main Chat Interface & Entry Point
-│   ├── script.js                    # AJAX Polling & DOM Interaction
-│   └── style.css                    # Custom Application Styles
+├── docs/                                                    # Formal Documentation
+│   └── SPECIFICATION.md                                     # Technical Architecture & Spec
 │
-├── Mini Project/                    # Documentation & Scholarly Assets
-│   ├── Draft/                       # Preliminary Documentation
-│   ├── Figures/                     # DFD and UML Diagrams
-│   ├── Chat Room.mp4                # Video Demonstration
-│   ├── CHAT ROOM POSTER.png         # Project Visual Poster
-│   └── (Research Materials...)      # Published Papers & Certificates
+├── Mini Project/                                            # Documentation & Scholarly Assets
+│   ├── Draft/                                               # Preliminary Documentation
+│   │   └── IRJET - CHAT ROOM USING HTML, PHP, CSS, JS, AJAX.docx  # Working Draft Document
+│   ├── Figures/                                             # DFD and UML Diagrams
+│   │   ├── Fig. (1) Flow Diagram.png                        # System Flow Diagram
+│   │   ├── Fig. (2) 0 level DFD.png                         # Data Flow Diagram - Level 0
+│   │   ├── Fig. (3) 1 level DFD.png                         # Data Flow Diagram - Level 1
+│   │   ├── Fig. (4) 2 level DFD.png                         # Data Flow Diagram - Level 2
+│   │   └── Fig. (5) Comparison of Chat Room System.png      # System Comparison Chart
+│   ├── B-28,31,50,51_WDL_Mini_Project_Report.pdf            # Formal Academic Report (09/10)
+│   ├── CHAT ROOM POSTER.png                                 # Project Visual Poster
+│   ├── CHAT ROOM USING HTML, PHP, CSS, JS, AJAX PRESENTATION.pdf   # Presentation (PDF)
+│   ├── CHAT ROOM USING HTML, PHP, CSS, JS, AJAX PRESENTATION.pptx  # Presentation (PPTX)
+│   ├── Chat Room.mp4                                        # Video Demonstration
+│   ├── CHAT_ROOM.mp4                                        # Video Demonstration (Backup)
+│   ├── IRJET - Chat Room using HTML, PHP, CSS, JS, AJAX.jpg # Publication Certificate
+│   ├── IRJET- Chat Room using HTML, PHP, CSS, JS, AJAX.pdf  # Published Paper (IRJET)
+│   ├── IRJET-V8I6 - Chat Room using HTML, PHP, CSS, JS, AJAX.pdf  # IRJET Volume 8 Issue 6
+│   ├── Preprint - Chat Room using HTML, PHP, CSS, JS, AJAX.pdf    # arXiv Preprint
+│   ├── Presentation - CHAT ROOM USING HTML, PHP, CSS, JS, AJAX PRESENTATION.pdf  # Alt Presentation
+│   └── User Interface.png                                   # UI Screenshot
 │
-├── docs/                            # Formal Documentation
-│   └── SPECIFICATION.md             # Technical Architecture & Spec
+├── Source Code/                                             # Application Source Files
+│   ├── images/                                              # Interface & Logo Assets
+│   │   ├── black.jpg                                        # Background Image (Dark)
+│   │   └── blue.jpg                                         # Background Image (Blue)
+│   ├── sound/                                               # Audio Notification Signals
+│   │   ├── 134332-facebook-chat-sound.mp3                   # Message Notification Sound
+│   │   └── button-11.wav                                    # Button Click Sound
+│   ├── sql database/                                        # Database Schema
+│   │   └── chat_info.sql                                    # MySQL Table Definition
+│   ├── chat.php                                             # AJAX Message Fetching Logic
+│   ├── db.php                                               # Database Connection & Formatting
+│   ├── index.php                                            # Main Chat Interface & Entry Point
+│   ├── script.js                                            # AJAX Polling & DOM Interaction
+│   └── style.css                                            # Custom Application Styles
 │
-├── LICENSE                          # MIT License
-├── CITATION.cff                     # Citation Metadata
-├── SECURITY.md                      # Security Policy & Posture
-├── codemeta.json                    # Project Metadata (JSON-LD)
-└── README.md                        # Project Documentation
+├── .gitattributes                                           # Git Line Ending Configuration
+├── .gitignore                                               # Git Ignore Rules
+├── CITATION.cff                                             # Citation Metadata
+├── codemeta.json                                            # Project Metadata (JSON-LD)
+├── LICENSE                                                  # MIT License
+├── README.md                                                # Project Documentation
+└── SECURITY.md                                              # Security Policy & Posture
 ```
 
 ---
