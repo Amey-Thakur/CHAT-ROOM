@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--design-gallery) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--design-gallery) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -223,6 +223,24 @@ $db_name = "chat_info";
 
 ---
 
+<!-- =========================================================================================
+                                     USAGE SECTION
+     ========================================================================================= -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use this mini-project as a reference for understanding asynchronous communication using AJAX, real-time data retrieval with PHP/MySQL, and dynamic DOM updates. The experiments and research assets are documented to support self-paced learning and exploration of real-time web applications.
+
+**For Educators**  
+This project may serve as a practical example or supplementary teaching resource for Web Designing Lab courses (`CSL504`). Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The published paper and preprint provide insights into the implementation of asynchronous communication architectures and their practical application in real-time messaging systems.
+
+---
+
 <!-- LICENSE -->
 ## License
 
@@ -259,7 +277,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--design-gallery) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--design-gallery) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
