@@ -5,8 +5,8 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
-  [![Platform](https://img.shields.io/badge/Platform-PHP%20%7C%20MySQL%20%7C%20AJAX-blueviolet)](https://github.com/Amey-Thakur/CHAT-ROOM)
-  [![Technology](https://img.shields.io/badge/Technology-PHP%20%7C%20Bootstrap%20%7C%20jQuery-orange)](https://github.com/Amey-Thakur/CHAT-ROOM)
+  [![Backend](https://img.shields.io/badge/Backend-PHP%20%7C%20MySQL%20%7C%20Apache-blueviolet)](https://github.com/Amey-Thakur/CHAT-ROOM)
+  [![Frontend](https://img.shields.io/badge/Frontend-AJAX%20%7C%20Bootstrap%20%7C%20jQuery-orange)](https://github.com/Amey-Thakur/CHAT-ROOM)
   [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Karan%20Dhiman-blue)](https://github.com/Amey-Thakur/CHAT-ROOM)
 
   A web-based real-time messaging interface developed using PHP, AJAX, and MySQL to demonstrate asynchronous communication and dynamic DOM updates.
@@ -67,7 +67,7 @@ Developed as a mini-project for the **Computer Engineering** curriculum, this to
 > [!IMPORTANT]
 > **Research Impact**
 >
-> This project was published as a research paper in **International Research Journal of Engineering and Technology (IRJET)** (Volume 8, Issue 6) and is also available as a preprint on **arXiv**.
+> This project was published as a research paper in **International Journal for Research in Applied Science & Engineering Technology (IJRASET)** (Volume 9, Issue 7) and is also available as a preprint on **arXiv**.
 >
 > - [Preprint @arXiv](https://arxiv.org/abs/2106.14704)
 > - [Published Paper @IRJET](https://www.irjet.net/archives/V8/i6/IRJET-V8I6348.pdf)
@@ -191,14 +191,14 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
-**Copyright &copy; 2021** [Amey Thakur](https://github.com/Amey-Thakur)
+**Copyright &copy; 2021** [Amey Thakur](https://github.com/Amey-Thakur), [Karan Dhiman](https://github.com/Karan-Dhiman)
 
 ---
 
 <!-- ABOUT -->
 ## About This Repository
 
-**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Karan Dhiman](https://github.com/Karan-Dhiman)  
 **Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
