@@ -245,3 +245,17 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 🔬 [Computer Engineering Project](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)&nbsp;·&nbsp;💬 [CHAT-ROOM](https://github.com/Amey-Thakur/CHAT-ROOM)
 
 </div>
+
+---
+
+<div align="center">
+
+### Presented as part of the 5th Semester Mini-Project @ Terna Engineering College
+
+### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+**Computer Engineering (B.E.) - University of Mumbai**
+
+*Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>
