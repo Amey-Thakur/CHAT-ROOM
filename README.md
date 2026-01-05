@@ -226,11 +226,12 @@ $db_name = "chat_info";
 <!-- LICENSE -->
 ## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This repository and all linked academic content are made available under the **MIT License**. See the [LICENSE](LICENSE) file for complete terms.
 
-**Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
-**Copyright &copy; 2021** [Amey Thakur](https://github.com/Amey-Thakur), [Karan Dhiman](https://github.com/Karan-Dhiman)
+Copyright © 2021 Amey Thakur, Karan Dhiman
 
 ---
 
