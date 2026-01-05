@@ -18,7 +18,7 @@ In accordance with established academic and professional standards for security 
 
 To document a security concern, communication is facilitated with the project curators:
   - **Curator**: [Amey Thakur](https://github.com/Amey-Thakur)
-  - **Collaborator**: [Hasan Rizvi](https://github.com/rizvihasan)
+  - **Collaborator**: [Karan Dhiman](https://github.com/Karan-Dhiman)
   - **Method**: Reports are submitted via the repository’s [GitHub Issues](https://github.com/Amey-Thakur/CHAT-ROOM/issues) interface to formally record security-related findings.
 
 Submissions include:
