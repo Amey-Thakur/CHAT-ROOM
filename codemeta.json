@@ -1,0 +1,46 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "CHAT-ROOM",
+    "description": "A web-based real-time messaging interface developed using PHP, AJAX, and MySQL to demonstrate asynchronous communication.",
+    "identifier": "CHAT-ROOM",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "programmingLanguage": [
+        "PHP",
+        "SQL",
+        "JavaScript",
+        "CSS",
+        "HTML"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateReleased": "2021-01-19",
+    "codeRepository": "https://github.com/Amey-Thakur/CHAT-ROOM",
+    "developmentStatus": "complete",
+    "runtimePlatform": [
+        "XAMPP",
+        "WAMP",
+        "Apache",
+        "PHP 7.x"
+    ],
+    "applicationCategory": "Messaging System",
+    "keywords": [
+        "Chat Room",
+        "PHP",
+        "MySQL",
+        "AJAX",
+        "Web Application",
+        "Asynchronous Messaging",
+        "Computer Engineering"
+    ]
+}
