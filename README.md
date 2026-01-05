@@ -1,13 +1,13 @@
 <div align="center">
 
   <a name="readme-top"></a>
-  # CHAT-ROOM
+  # Chat Room
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Backend](https://img.shields.io/badge/Backend-PHP%20%7C%20MySQL%20%7C%20Apache-blueviolet)](https://github.com/Amey-Thakur/CHAT-ROOM)
   [![Frontend](https://img.shields.io/badge/Frontend-AJAX%20%7C%20Bootstrap%20%7C%20jQuery-orange)](https://github.com/Amey-Thakur/CHAT-ROOM)
-  [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Karan%20Dhiman-blue)](https://github.com/Amey-Thakur/CHAT-ROOM)
+  [![Developed by Amey Thakur & Karan Dhiman](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Karan%20Dhiman-blue)](https://github.com/Amey-Thakur/CHAT-ROOM)
 
   A web-based real-time chat application developed using HTML, CSS, JavaScript, PHP, AJAX, and MySQL, demonstrating asynchronous communication and dynamic Document Object Model (DOM) updates.
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--design-gallery) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -60,9 +60,9 @@
 <!-- OVERVIEW -->
 ## Overview
 
-The **CHAT-ROOM** is a web-based messaging utility developed to demonstrate the practical application of asynchronous data retrieval and real-time frontend updates. It features a streamlined interface that allows users to communicate instantly without the need for manual page refreshes.
+The **Chat Room** is a web-based messaging utility developed to demonstrate the practical application of asynchronous data retrieval and real-time frontend updates. It features a streamlined interface that allows users to communicate instantly without the need for manual page refreshes.
 
-Developed as a mini-project for the **Computer Engineering** curriculum, this tool showcases the integration of relational database management (MySQL) with server-side scripting (PHP) and asynchronous JavaScript (AJAX).
+Developed as a mini-project for the **Web Designing Laboratory** curriculum, this tool showcases the integration of relational database management (MySQL) with server-side scripting (PHP) and asynchronous JavaScript (AJAX).
 
 > [!IMPORTANT]
 > **Research Impact**
@@ -113,57 +113,75 @@ Developed as a mini-project for the **Computer Engineering** curriculum, this to
 <!-- STRUCTURE -->
 ## Project Structure
 
-```
+```bash
 CHAT-ROOM/
 │
-├── docs/                                                    # Formal Documentation
-│   └── SPECIFICATION.md                                     # Technical Architecture & Spec
+├── docs/                                          # Formal Documentation
+│   └── SPECIFICATION.md                           # Technical Architecture & Spec
 │
-├── Mini Project/                                            # Documentation & Scholarly Assets
-│   ├── Draft/                                               # Preliminary Documentation
-│   │   └── IRJET - CHAT ROOM USING HTML, PHP, CSS, JS, AJAX.docx  # Working Draft Document
-│   ├── Figures/                                             # DFD and UML Diagrams
-│   │   ├── Fig. (1) Flow Diagram.png                        # System Flow Diagram
-│   │   ├── Fig. (2) 0 level DFD.png                         # Data Flow Diagram - Level 0
-│   │   ├── Fig. (3) 1 level DFD.png                         # Data Flow Diagram - Level 1
-│   │   ├── Fig. (4) 2 level DFD.png                         # Data Flow Diagram - Level 2
-│   │   └── Fig. (5) Comparison of Chat Room System with the Previous system.png  # System Comparison
-│   ├── B-28,31,50,51_WDL_Mini_Project_Report.pdf            # Formal Academic Report (09/10)
-│   ├── CHAT ROOM POSTER.png                                 # Project Visual Poster
-│   ├── CHAT ROOM USING HTML, PHP, CSS, JS, AJAX PRESENTATION.pdf   # Presentation (PDF)
-│   ├── CHAT ROOM USING HTML, PHP, CSS, JS, AJAX PRESENTATION.pptx  # Presentation (PPTX)
-│   ├── Chat Room.mp4                                        # Video Demonstration
-│   ├── CHAT_ROOM.mp4                                        # Video Demonstration (Backup)
-│   ├── IRJET - Chat Room using HTML, PHP, CSS, JS, AJAX.jpg # Publication Certificate
-│   ├── IRJET- Chat Room using HTML, PHP, CSS, JS, AJAX.pdf  # Published Paper (IRJET)
-│   ├── IRJET-V8I6 - Chat Room using HTML, PHP, CSS, JS, AJAX.pdf  # IRJET Volume 8 Issue 6
-│   ├── Preprint - Chat Room using HTML, PHP, CSS, JS, AJAX.pdf    # arXiv Preprint
-│   ├── Presentation - CHAT ROOM USING HTML, PHP, CSS, JS, AJAX PRESENTATION.pdf  # Alt Presentation
-│   └── User Interface.png                                   # UI Screenshot
+├── Mini Project/                                  # Research & Academic Assets
+│   ├── Draft/                                     # Preliminary Research Data
+│   │   └── IRJET - Chat Room.docx                 # Working Manuscript Draft
+│   ├── Figures/                                   # System Diagrams & Architecture
+│   │   ├── Fig. (1) Flow Diagram.png              # System Logic Flowchart
+│   │   ├── Fig. (2) 0 level DFD.png               # Context Level Data Flow
+│   │   ├── Fig. (3) 1 level DFD.png               # Level 1 Data Flow Diagram
+│   │   ├── Fig. (4) 2 level DFD.png               # Level 2 Data Flow Diagram
+│   │   └── Fig. (5) Comparison of Chat Room...    # Comparative Analysis Diagram
+│   ├── B-28,31,50,51_WDL_Mini_Project_Report.pdf  # Formal Academic Report
+│   ├── CHAT ROOM POSTER.png                       # Project Presentation Poster
+│   ├── Chat Room.mp4                              # Project Demonstration Video
+│   ├── IRJET-V8I6 - Chat Room.pdf                 # Published Journal Research Paper
+│   ├── Preprint - Chat Room.pdf                   # Scholarly Preprint Version
+│   ├── Presentation - Chat Room.pdf               # Technical Presentation Assets
+│   └── User Interface.png                         # Application UI Visualization
 │
-├── Source Code/                                             # Application Source Files
-│   ├── images/                                              # Interface & Logo Assets
-│   │   ├── black.jpg                                        # Background Image (Dark)
-│   │   └── blue.jpg                                         # Background Image (Blue)
-│   ├── sound/                                               # Audio Notification Signals
-│   │   ├── 134332-facebook-chat-sound.mp3                   # Message Notification Sound
-│   │   └── button-11.wav                                    # Button Click Sound
-│   ├── sql database/                                        # Database Schema
-│   │   └── chat_info.sql                                    # MySQL Table Definition
-│   ├── chat.php                                             # AJAX Message Fetching Logic
-│   ├── db.php                                               # Database Connection & Formatting
-│   ├── index.php                                            # Main Chat Interface & Entry Point
-│   ├── script.js                                            # AJAX Polling & DOM Interaction
-│   └── style.css                                            # Custom Application Styles
+├── Source Code/                                   # Real-Time Web Application (AJAX)
+│   ├── images/                                    # UI Background & Media Assets
+│   ├── sound/                                     # Audio Notification Signals
+│   ├── sql database/                              # Data Architecture (MySQL)
+│   │   └── chat_info.sql                          # Relational Database Schema
+│   ├── chat.php                                   # AJAX Message Fetching Logic
+│   ├── db.php                                     # Database Connection Liaison
+│   ├── index.php                                  # Application Entry Gateway
+│   ├── script.js                                  # Asynchronous Client Logic
+│   └── style.css                                  # Presentation Layer Styling
 │
-├── .gitattributes                                           # Git Line Ending Configuration
-├── .gitignore                                               # Git Ignore Rules
-├── CITATION.cff                                             # Citation Metadata
-├── codemeta.json                                            # Project Metadata (JSON-LD)
-├── LICENSE                                                  # MIT License
-├── README.md                                                # Project Documentation
-└── SECURITY.md                                              # Security Policy & Posture
+├── .gitattributes                                 # Global Git LFS & Config
+├── .gitignore                                     # Asset Exclusion Manifest
+├── CITATION.cff                                   # Scholarly Citation Metadata
+├── codemeta.json                                  # Machine-Readable Metadata
+├── LICENSE                                        # Project Licensing Terms
+├── README.md                                      # Comprehensive Archival Entrance
+└── SECURITY.md                                    # Vulnerability Exposure Policy
 ```
+
+---
+
+<!-- RESULTS -->
+## System Architecture & Design Gallery
+
+<div align="center">
+
+  ### User Interface Visualization
+  ![User Interface](Mini%20Project/User%20Interface.png)
+
+  ### System Logic Flowchart
+  ![Flow Diagram](Mini%20Project/Figures/Fig.%20(1)%20Flow%20Diagram.png)
+
+  ### Context Level Data Flow (Zero Level DFD)
+  ![0 level DFD](Mini%20Project/Figures/Fig.%20(2)%200%20level%20DFD.png)
+
+  ### Level 1 Data Flow Diagram
+  ![1 level DFD](Mini%20Project/Figures/Fig.%20(3)%201%20level%20DFD.png)
+
+  ### Level 2 Data Flow Diagram
+  ![2 level DFD](Mini%20Project/Figures/Fig.%20(4)%202%20level%20DFD.png)
+
+  ### Comparative Analysis
+  ![Comparison](Mini%20Project/Figures/Fig.%20(5)%20Comparison%20of%20Chat%20Room%20System%20with%20the%20Previous%20system.png)
+
+</div>
 
 ---
 
@@ -224,7 +242,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This project features the CHAT-ROOM, a messaging utility developed as a **5th Semester Mini-Project**. It showcases the practical application of asynchronous programming, real-time data flow, and frontend-backend integration.
+This project features the **Chat Room**, a messaging utility developed as a **5th Semester Mini-Project**. It showcases the practical application of asynchronous programming, real-time data flow, and frontend-backend integration.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
@@ -238,26 +256,22 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
 <div align="center">
 
-[↑ Back to Top](#readme-top)
+  [↑ Back to Top](#readme-top)
 
-[Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--design-gallery) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
-<br>
+  <br>
 
-🔬 **[Computer Engineering Project](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)** &nbsp;·&nbsp; 💬 **[CHAT-ROOM](https://github.com/Amey-Thakur/CHAT-ROOM)**
+  🔬 **[Web Designing Laboratory](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB)** &nbsp;·&nbsp; 💬 **[Chat Room](https://github.com/Amey-Thakur/CHAT-ROOM)**
 
-</div>
+  ---
 
----
+  ### Presented as part of the 5th Semester Mini-Project @ Terna Engineering College
 
-<div align="center">
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
-### Presented as part of the 5th Semester Mini-Project @ Terna Engineering College
+  **Computer Engineering (B.E.) - University of Mumbai**
 
-### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
-
-**Computer Engineering (B.E.) - University of Mumbai**
-
-*Semester-wise curriculum, laboratories, projects, and academic notes.*
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
