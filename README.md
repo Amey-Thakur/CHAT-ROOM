@@ -242,7 +242,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
 <br>
 
-🔬 [Computer Engineering Project](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)&nbsp;·&nbsp;💬 [CHAT-ROOM](https://github.com/Amey-Thakur/CHAT-ROOM)
+🔬 **[Computer Engineering Project](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)**&nbsp;·&nbsp;💬 **[CHAT-ROOM](https://github.com/Amey-Thakur/CHAT-ROOM)**
 
 </div>
 
