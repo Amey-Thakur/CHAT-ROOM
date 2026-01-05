@@ -127,7 +127,7 @@ CHAT-ROOM/
 │   │   ├── Fig. (2) 0 level DFD.png                         # Data Flow Diagram - Level 0
 │   │   ├── Fig. (3) 1 level DFD.png                         # Data Flow Diagram - Level 1
 │   │   ├── Fig. (4) 2 level DFD.png                         # Data Flow Diagram - Level 2
-│   │   └── Fig. (5) Comparison of Chat Room System.png      # System Comparison Chart
+│   │   └── Fig. (5) Comparison of Chat Room System with the Previous system.png  # System Comparison
 │   ├── B-28,31,50,51_WDL_Mini_Project_Report.pdf            # Formal Academic Report (09/10)
 │   ├── CHAT ROOM POSTER.png                                 # Project Visual Poster
 │   ├── CHAT ROOM USING HTML, PHP, CSS, JS, AJAX PRESENTATION.pdf   # Presentation (PDF)
