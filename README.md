@@ -234,15 +234,17 @@ Grateful acknowledgment to **[Karan Dhiman](https://github.com/Karan-Dhiman)** f
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
 
+---
+
 <div align="center">
 
 [↑ Back to Top](#readme-top)
 
-[Authors](#authors)&nbsp;·&nbsp;[Overview](#overview)&nbsp;·&nbsp;[Features](#features)&nbsp;·&nbsp;[Structure](#project-structure)&nbsp;·&nbsp;[Quick Start](#quick-start)&nbsp;·&nbsp;[License](#license)&nbsp;·&nbsp;[About](#about-this-repository)&nbsp;·&nbsp;[Acknowledgments](#acknowledgments)
+[Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 <br>
 
-🔬 **[Computer Engineering Project](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)**&nbsp;·&nbsp;💬 **[CHAT-ROOM](https://github.com/Amey-Thakur/CHAT-ROOM)**
+🔬 **[Computer Engineering Project](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)** &nbsp;·&nbsp; 💬 **[CHAT-ROOM](https://github.com/Amey-Thakur/CHAT-ROOM)**
 
 </div>
 
