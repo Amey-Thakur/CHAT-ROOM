@@ -102,6 +102,16 @@ Developed as a mini-project for the **Computer Engineering** curriculum, this to
 | **Responsive UI** | Mobile-friendly layout designed with Bootstrap for accessibility across devices. |
 | **Audio Feedback** | Subtle sound notifications for message events to enhance user engagement. |
 
+### Detailed Feature Breakdown
+
+- **Asynchronous Data Exchange**: Seamless integration of `jQuery.ajax()` to polling `chat.php` at 1-second intervals, ensuring the interface remains interactive during data retrieval.
+- **Relational Data Mapping**: A robust backend schema where individual messages are mapped to unique identifiers, user names, and precise timestamps within a MySQL relational database.
+- **Dynamic Document Object Model (DOM) Updates**: Real-time injection of dynamically generated HTML fragments into the `#chat` container, facilitating a live-feed experience.
+- **Automated Temporal Formatting**: Intelligent server-side processing of raw database timestamps into human-readable 12-hour formats (e.g., "1:30 pm") via custom PHP helper functions.
+- **Scholarly Attribution Interface**: Integrated sidebar profiling project participants with academic details including Department, Roll Number, and Class affiliations.
+- **Event-Driven Audio Alerts**: Utilization of HTML5 `<audio>` triggers integrated with database transaction logic to provide immediate feedback upon successful message delivery.
+- **Responsive Grid Architecture**: Adherence to the Bootstrap 3 grid system to ensure fluid layout transitions and readability across diverse viewport dimensions.
+
 ### Tech Stack
 - **Language**: PHP 7.x
 - **Database**: MySQL 5.x+
