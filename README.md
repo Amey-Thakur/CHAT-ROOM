@@ -200,9 +200,9 @@ Ensure your local development environment meets the following requirements:
 - **Database**: MySQL **5.6** or higher.
 
 > [!WARNING]
-> **Legacy Dependencies & Security**
+> **Technical Dependencies & Environment**
 >
-> This system utilizes **PHP 7.x** and **Bootstrap 3**. For archival and educational purposes, it is recommended to run this in a sandboxed local environment (e.g., XAMPP/WAMP) rather than a production-facing server to mitigate risks associated with legacy server-side scripting and outdated frontend frameworks.
+> This system is built using **PHP 7.x** and **Bootstrap 3**. For stable execution and educational reference, it is recommended to run this in a controlled local environment (e.g., XAMPP/WAMP) to align with the baseline server-side scripting and frontend framework requirements.
 
 ### 2. Setup & Deployment
 1.  **Clone the Repository**:
