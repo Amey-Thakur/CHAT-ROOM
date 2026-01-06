@@ -8,13 +8,20 @@
  * form submission, and overall layout.
  *
  * ----------------------------------------------------------------------------
- * AUTHORSHIP & CREDITS
+ * AUTHORSHIP & SCHOLARLY ATTRIBUTION
  * ----------------------------------------------------------------------------
- * Author: Amey Thakur
- * Repository: https://github.com/Amey-Thakur/CHAT-ROOM
- * Date: 2021-01-19
- * License: MIT
+ * Created By   : Amey Thakur
+ * Profile      : https://github.com/Amey-Thakur
+ * Date         : 2021-01-19
+ * Repository   : https://github.com/Amey-Thakur/CHAT-ROOM
+ * License      : MIT
  *
+ * ----------------------------------------------------------------------------
+ * PROJECT CONTEXT
+ * ----------------------------------------------------------------------------
+ * This software is a result of research and development documented in the 
+ * International Journal for Research in Applied Science & Engineering 
+ * Technology (IJRASET).
  * ============================================================================
  */
 
