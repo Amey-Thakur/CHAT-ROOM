@@ -108,6 +108,11 @@ Developed as a mini-project for the **Web Designing Laboratory** curriculum, thi
 - **Frontend**: HTML5, CSS3, Bootstrap, jQuery (AJAX)
 - **Server**: Apache (XAMPP/WAMP)
 
+> [!TIP]
+> **Asynchronous Communication Architecture**
+>
+> To optimize server performance and reduce bandwidth, the AJAX polling interval can be dynamically adjusted based on user activity or replaced with WebSocket technology for true bi-directional, persistent socket connections.
+
 ---
 
 <!-- STRUCTURE -->
@@ -193,6 +198,11 @@ Ensure your local development environment meets the following requirements:
 - **Web Server**: Apache (via [XAMPP](https://www.apachefriends.org/index.html) or [WAMP](http://www.wampserver.com/en/)).
 - **PHP**: Version **7.0** or higher.
 - **Database**: MySQL **5.6** or higher.
+
+> [!WARNING]
+> **Legacy Dependencies & Security**
+>
+> This system utilizes **PHP 7.x** and **Bootstrap 3**. For archival and educational purposes, it is recommended to run this in a sandboxed local environment (e.g., XAMPP/WAMP) rather than a production-facing server to mitigate risks associated with legacy server-side scripting and outdated frontend frameworks.
 
 ### 2. Setup & Deployment
 1.  **Clone the Repository**:
