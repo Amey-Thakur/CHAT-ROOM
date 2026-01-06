@@ -85,7 +85,7 @@ Developed as a mini-project for the **Web Designing Laboratory** curriculum, thi
 
 <div align="center">
   <br>
-  <img src="Mini Project/CHAT ROOM POSTER.png" width="80%" alt="CHAT-ROOM Poster"/>
+  <img src="Mini-Project/CHAT ROOM POSTER.png" width="80%" alt="CHAT-ROOM Poster"/>
 </div>
 
 ---
@@ -119,7 +119,7 @@ CHAT-ROOM/
 ├── docs/                                          # Formal Documentation
 │   └── SPECIFICATION.md                           # Technical Architecture & Spec
 │
-├── Mini Project/                                  # Research & Academic Assets
+├── Mini-Project/                                  # Research & Academic Assets
 │   ├── Draft/                                     # Preliminary Research Data
 │   │   └── IRJET - Chat Room.docx                 # Working Manuscript Draft
 │   ├── Figures/                                   # System Diagrams & Architecture
