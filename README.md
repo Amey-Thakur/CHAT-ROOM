@@ -64,7 +64,7 @@ The **Chat Room** is a web-based messaging utility developed to demonstrate the 
 
 Developed as a mini-project for the **Web Designing Laboratory** curriculum, this tool showcases the integration of relational database management (MySQL) with server-side scripting (PHP) and asynchronous JavaScript (AJAX).
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > **Research Impact**
 >
 > This project was published as an academic research paper in the **International Journal for Research in Applied Science & Engineering Technology (IJRASET)** (Volume 9, Issue 7), with a scholarly **Preprint** available on **arXiv**. The project received an official **Publication Certificate** for its research contribution to web development education.
