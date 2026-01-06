@@ -85,6 +85,11 @@ Developed as a mini-project for the **Web Designing Laboratory** curriculum, thi
 | 6 | **Award Certificate** | Recognition for project excellence | — | — | [View](Mini-Project/IRJET%20-%20Chat%20Room%20using%20HTML,%20PHP,%20CSS,%20JS,%20AJAX.jpg) |
 | 7 | **Publication Certificate** | Official journal publication certificate | — | — | [View](Mini-Project/Publication%20Certificate.png) |
 
+> [!TIP]
+> **Asynchronous Communication Architecture**
+>
+> To optimize server performance and reduce bandwidth, the AJAX polling interval can be dynamically adjusted based on user activity or replaced with WebSocket technology for true bi-directional, persistent socket connections.
+
 <div align="center">
   <br>
   <img src="Mini-Project/CHAT ROOM POSTER.png" width="80%" alt="CHAT-ROOM Poster"/>
@@ -109,11 +114,6 @@ Developed as a mini-project for the **Web Designing Laboratory** curriculum, thi
 - **Database**: MySQL 5.x+
 - **Frontend**: HTML5, CSS3, Bootstrap, jQuery (AJAX)
 - **Server**: Apache (XAMPP/WAMP)
-
-> [!TIP]
-> **Asynchronous Communication Architecture**
->
-> To optimize server performance and reduce bandwidth, the AJAX polling interval can be dynamically adjusted based on user activity or replaced with WebSocket technology for true bi-directional, persistent socket connections.
 
 ---
 
