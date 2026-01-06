@@ -2,7 +2,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "name": "CHAT-ROOM",
-    "description": "A web-based real-time messaging interface developed using PHP, AJAX, and MySQL to demonstrate asynchronous communication.",
+    "description": "A web-based real-time messaging interface developed using PHP, AJAX, and MySQL to demonstrate asynchronous communication. This project serves as a scholarly collection artifact for web development education.",
     "identifier": "CHAT-ROOM",
     "license": "https://spdx.org/licenses/MIT.html",
     "programmingLanguage": [
@@ -28,9 +28,8 @@
     "codeRepository": "https://github.com/Amey-Thakur/CHAT-ROOM",
     "developmentStatus": "complete",
     "runtimePlatform": [
-        "XAMPP",
-        "WAMP",
         "Apache",
+        "MySQL",
         "PHP 7.x"
     ],
     "applicationCategory": "Messaging System",
