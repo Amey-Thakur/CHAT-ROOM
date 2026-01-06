@@ -75,11 +75,12 @@ Developed as a mini-project for the **Web Designing Laboratory** curriculum, thi
 | # | Resource | Description | Date | Marks | Link |
 |---|---|---|---|---|---|
 | 1 | **Project Repository** | Complete source code and documentation | — | — | [View](Source%20Code/) |
-| 2 | **Project Report** | Detailed documentation and system design | December 02, 2020 | 09/10 | [View](Mini%20Project/B-28,31,50,51_WDL_Mini_Project_Report.pdf) |
-| 3 | **Project Presentation** | Visual overview of the development lifecycle | December 02, 2020 | 09/10 | [View](Mini%20Project/Presentation%20-%20CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX%20PRESENTATION.pdf) |
+| 2 | **Project Report** | Detailed documentation and system design | December 02, 2020 | 09/10 | [View](Mini-Project/B-28,31,50,51_WDL_Mini_Project_Report.pdf) |
+| 3 | **Project Presentation** | Visual overview of the development lifecycle | December 02, 2020 | 09/10 | [View](Mini-Project/Presentation%20-%20CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX%20PRESENTATION.pdf) |
 | 4 | **Project Demo (YouTube)** | Real-time demonstration of features | — | — | [View](https://youtu.be/Aem0k2Dl9fU) |
-| 5 | **Project Demo (MP4)** | Local video demonstration of features | — | — | [View](Mini%20Project/Chat%20Room.mp4) |
-| 6 | **Award Certificate** | Recognition for project excellence | — | — | [View](Mini%20Project/IRJET%20-%20Chat%20Room%20using%20HTML,%20PHP,%20CSS,%20JS,%20AJAX.jpg) |
+| 5 | **Project Demo (MP4)** | Local video demonstration of features | — | — | [View](Mini-Project/Chat%20Room.mp4) |
+| 6 | **Award Certificate** | Recognition for project excellence | — | — | [View](Mini-Project/IRJET%20-%20Chat%20Room%20using%20HTML,%20PHP,%20CSS,%20JS,%20AJAX.jpg) |
+| 7 | **Publication Certificate** | Official journal publication certificate | — | — | [View](Mini-Project/Publication%20Certificate.png) |
 
 <div align="center">
   <br>
