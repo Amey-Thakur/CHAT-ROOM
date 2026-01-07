@@ -51,7 +51,7 @@
   <sub><b>Karan Dhiman</b></sub>
   </a><br /><br />
   <a href="https://github.com/Karan-Dhiman">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Karan--Dhiman-black?style=flat&logo=github" alt="GitHub"/>
   </a>
   </td>
   </tr>
