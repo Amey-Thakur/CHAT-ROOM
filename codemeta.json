@@ -22,6 +22,15 @@
                 "@type": "Organization",
                 "name": "Terna Engineering College"
             }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Karan",
+            "familyName": "Dhiman",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
         }
     ],
     "dateReleased": "2021-01-19",
