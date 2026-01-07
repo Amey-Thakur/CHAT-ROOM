@@ -11,7 +11,7 @@
 
   A web-based real-time chat application developed using HTML, CSS, JavaScript, PHP, AJAX, and MySQL, demonstrating asynchronous communication and dynamic Document Object Model (DOM) updates.
 
-  **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;&middot;&nbsp; **[Project Demo](https://youtu.be/Aem0k2Dl9fU)**
+  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Project Demo](https://youtu.be/Aem0k2Dl9fU)**
 
   [![Demo](https://img.youtube.com/vi/Aem0k2Dl9fU/0.jpg)](https://youtu.be/Aem0k2Dl9fU)
 
@@ -38,14 +38,20 @@
   <tr>
   <td align="center">
   <a href="https://github.com/Amey-Thakur">
-  <img src="https://github.com/Amey-Thakur.png" width="150px;" alt="Amey Thakur"/><br />
+  <img src="https://github.com/Amey-Thakur.png" width="180px;" alt="Amey Thakur"/><br />
   <sub><b>Amey Thakur</b></sub>
+  </a><br /><br />
+  <a href="https://orcid.org/0000-0001-5644-1575">
+  <img src="https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen" alt="ORCID"/>
   </a>
   </td>
   <td align="center">
   <a href="https://github.com/Karan-Dhiman">
-  <img src="https://github.com/Karan-Dhiman.png" width="150px;" alt="Karan Dhiman"/><br />
+  <img src="https://github.com/Karan-Dhiman.png" width="180px;" alt="Karan Dhiman"/><br />
   <sub><b>Karan Dhiman</b></sub>
+  </a><br /><br />
+  <a href="https://github.com/Karan-Dhiman">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   </td>
   </tr>
@@ -171,22 +177,22 @@ CHAT-ROOM/
 <div align="center">
 
   ### User Interface Visualization
-  ![User Interface](Mini%20Project/User%20Interface.png)
+  ![User Interface](Mini-Project/User%20Interface.png)
 
   ### System Logic Flowchart
-  ![Flow Diagram](Mini%20Project/Figures/Fig.%20(1)%20Flow%20Diagram.png)
+  ![Flow Diagram](Mini-Project/Figures/Fig.%20%281%29%20Flow%20Diagram.png)
 
   ### Context Level Data Flow (Zero Level DFD)
-  ![0 level DFD](Mini%20Project/Figures/Fig.%20(2)%200%20level%20DFD.png)
+  ![0 level DFD](Mini-Project/Figures/Fig.%20%282%29%200%20level%20DFD.png)
 
   ### Level 1 Data Flow Diagram
-  ![1 level DFD](Mini%20Project/Figures/Fig.%20(3)%201%20level%20DFD.png)
+  ![1 level DFD](Mini-Project/Figures/Fig.%20%283%29%201%20level%20DFD.png)
 
   ### Level 2 Data Flow Diagram
-  ![2 level DFD](Mini%20Project/Figures/Fig.%20(4)%202%20level%20DFD.png)
+  ![2 level DFD](Mini-Project/Figures/Fig.%20%284%29%202%20level%20DFD.png)
 
   ### Comparative Analysis
-  ![Comparison](Mini%20Project/Figures/Fig.%20(5)%20Comparison%20of%20Chat%20Room%20System%20with%20the%20Previous%20system.png)
+  ![Comparison](Mini-Project/Figures/Fig.%20%285%29%20Comparison%20of%20Chat%20Room%20System%20with%20the%20Previous%20system.png)
 
 </div>
 
@@ -275,7 +281,7 @@ Copyright © 2021 Amey Thakur, Karan Dhiman
 
 This project features the **Chat Room**, a messaging utility developed as a **5th Semester Mini-Project**. It showcases the practical application of asynchronous programming, real-time data flow, and frontend-backend integration.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
