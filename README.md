@@ -40,9 +40,8 @@
 </div>
 
 > [!IMPORTANT]
-> **Special Acknowledgement**
->
-> Grateful acknowledgment to **[Karan Dhiman](https://github.com/Karan-Dhiman)** for his meaningful contributions, technical insights, and collaborative support that significantly enhanced the quality and success of this project.
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to **[Karan Dhiman](https://github.com/Karan-Dhiman)** for his meaningful contributions, technical insights, and collaborative support that significantly enhanced the quality and success of this project.*
 
 ---
 
