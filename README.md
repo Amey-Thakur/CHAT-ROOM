@@ -37,9 +37,12 @@
 | <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/Karan-Dhiman"><img src="https://github.com/Karan-Dhiman.png" width="150" height="150" alt="Karan Dhiman"></a><br>[**Karan Dhiman**](https://github.com/Karan-Dhiman)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-Karan--Dhiman-black?style=flat&logo=github)](https://github.com/Karan-Dhiman) |
 | :---: | :---: |
 
-  *Special thanks to [Karan Dhiman](https://github.com/Karan-Dhiman) for his meaningful contributions, guidance, and support that helped shape this work.*
-
 </div>
+
+> [!IMPORTANT]
+> **Special Acknowledgement**
+>
+> Grateful acknowledgment to **[Karan Dhiman](https://github.com/Karan-Dhiman)** for his meaningful contributions, technical insights, and collaborative support that significantly enhanced the quality and success of this project.
 
 ---
 
