@@ -269,9 +269,9 @@ This project features the **Chat Room**, a messaging utility developed as a **5t
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Karan Dhiman](https://github.com/Karan-Dhiman)** for his exceptional collaboration and technical partnership during the development of this project. His expertise in asynchronous logic and commitment to software quality were instrumental in building this real-time messaging system. Working alongside him was a transformative experience; his thoughtful approach to solving complex AJAX challenges and constant encouragement turned difficult hurdles into meaningful learning moments. This implementation serves as a testament to our shared academic journey and the insights we gained together. Thank you, Karan, for your dedication and support.
+Grateful acknowledgment to [**Karan Dhiman**](https://github.com/Karan-Dhiman) for his exceptional collaboration and technical partnership during the development of this project. His expertise in asynchronous logic, server-side PHP integration, and dedication to software quality were instrumental in building this real-time messaging system. Learning alongside him was a transformative experience; his thoughtful approach to solving complex AJAX challenges and constant encouragement turned difficult hurdles into meaningful learning moments. This work reflects the growth and insights gained from our side-by-side academic journey. Thank you, Karan, for everything you shared and taught along the way.
 
-Grateful acknowledgment to the faculty members of the **Department of Computer Engineering** at Terna Engineering College for their guidance and instruction in Web Designing. Their expertise in frontend-backend integration and server-side scripting helped shape the technical foundation of this project.
+Grateful acknowledgment to the faculty members of the **Department of Computer Engineering** at Terna Engineering College for their guidance and instruction in Web Designing. Their expertise in frontend-backend integration and server-side scripting helped me develop a strong understanding of asynchronous programming and dynamic web development.
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning endeavor.
 
