@@ -34,28 +34,8 @@
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
-  <table>
-  <tr>
-  <td align="center">
-  <a href="https://github.com/Amey-Thakur">
-  <img src="https://github.com/Amey-Thakur.png" width="180px;" alt="Amey Thakur"/><br />
-  <sub><b>Amey Thakur</b></sub>
-  </a><br /><br />
-  <a href="https://orcid.org/0000-0001-5644-1575">
-  <img src="https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen" alt="ORCID"/>
-  </a>
-  </td>
-  <td align="center">
-  <a href="https://github.com/Karan-Dhiman">
-  <img src="https://github.com/Karan-Dhiman.png" width="180px;" alt="Karan Dhiman"/><br />
-  <sub><b>Karan Dhiman</b></sub>
-  </a><br /><br />
-  <a href="https://github.com/Karan-Dhiman">
-  <img src="https://img.shields.io/badge/GitHub-Karan--Dhiman-black?style=flat&logo=github" alt="GitHub"/>
-  </a>
-  </td>
-  </tr>
-  </table>
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/Karan-Dhiman"><img src="https://github.com/Karan-Dhiman.png" width="150" height="150" alt="Karan Dhiman"></a><br>[**Karan Dhiman**](https://github.com/Karan-Dhiman)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-Karan--Dhiman-black?style=flat&logo=github)](https://github.com/Karan-Dhiman) |
+| :---: | :---: |
 
   *Special thanks to [Karan Dhiman](https://github.com/Karan-Dhiman) for his meaningful contributions, guidance, and support that helped shape this work.*
 
@@ -70,7 +50,7 @@ The **Chat Room** is a web-based messaging utility developed to demonstrate the 
 
 Developed as a mini-project for the **Web Designing Laboratory** curriculum, this tool showcases the integration of relational database management (MySQL) with server-side scripting (PHP) and asynchronous JavaScript (AJAX).
 
-> [!IMPORTANT]
+> [!NOTE]
 > **Research Impact**
 >
 > This project was published as an academic research paper in the **International Journal for Research in Applied Science & Engineering Technology (IJRASET)** (Volume 9, Issue 7), with a scholarly **Preprint** available on **arXiv**. The project received an official **Publication Certificate** for its research contribution to web development education.
@@ -79,17 +59,19 @@ Developed as a mini-project for the **Web Designing Laboratory** curriculum, thi
 > - [Published Paper @IRJET](https://www.irjet.net/archives/V8/i6/IRJET-V8I6348.pdf)
 > - [Publication Certificate](Mini-Project/Publication%20Certificate.png)
 
-### Resources
+ ### Resources
 
-| # | Resource | Description | Date | Marks | Link |
-|---|---|---|---|---|---|
-| 1 | **Project Repository** | Complete source code and documentation | — | — | [View](Source%20Code/) |
-| 2 | **Project Report** | Detailed documentation and system design | December 02, 2020 | 09/10 | [View](Mini-Project/B-28,31,50,51_WDL_Mini_Project_Report.pdf) |
-| 3 | **Project Presentation** | Visual overview of the development lifecycle | December 02, 2020 | 09/10 | [View](Mini-Project/Presentation%20-%20CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX%20PRESENTATION.pdf) |
-| 4 | **Project Demo (YouTube)** | Real-time demonstration of features | — | — | [View](https://youtu.be/Aem0k2Dl9fU) |
-| 5 | **Project Demo (MP4)** | Local video demonstration of features | — | — | [View](Mini-Project/Chat%20Room.mp4) |
-| 6 | **Award Certificate** | Recognition for project excellence | — | — | [View](Mini-Project/IRJET%20-%20Chat%20Room%20using%20HTML,%20PHP,%20CSS,%20JS,%20AJAX.jpg) |
-| 7 | **Publication Certificate** | Official journal publication certificate | — | — | [View](Mini-Project/Publication%20Certificate.png) |
+ | # | Resource | Description | Date | Marks |
+ |---|---|---|---|---|
+ | 1 | [**Source Code**](Source%20Code/) | Complete web application source code | — | — |
+ | 2 | [**Technical Specification**](docs/SPECIFICATION.md) | System architecture and specifications | — | — |
+ | 3 | [**Project Report**](Mini-Project/B-28,31,50,51_WDL_Mini_Project_Report.pdf) | Detailed documentation and system design | December 02, 2020 | 09/10 |
+ | 4 | [**Project Presentation**](Mini-Project/Presentation%20-%20CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX%20PRESENTATION.pdf) | Visual overview of the development lifecycle | December 02, 2020 | 09/10 |
+ | 5 | [**Project Demo (YouTube)**](https://youtu.be/Aem0k2Dl9fU) | Real-time demonstration of features | — | — |
+ | 6 | [**Project Demo (MP4)**](Mini-Project/Chat%20Room.mp4) | Local video demonstration of features | — | — |
+ | 7 | [**Award Certificate**](Mini-Project/IRJET%20-%20Chat%20Room%20using%20HTML,%20PHP,%20CSS,%20JS,%20AJAX.jpg) | Recognition for project excellence | — | — |
+ | 8 | [**Publication Certificate**](Mini-Project/Publication%20Certificate.png) | Official journal publication certificate | — | — |
+ | 9 | [**WDL Laboratory**](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) | Computer Engineering Laboratory Repository | — | — |
 
 > [!TIP]
 > **Asynchronous Communication Architecture**
@@ -126,47 +108,47 @@ Developed as a mini-project for the **Web Designing Laboratory** curriculum, thi
 <!-- STRUCTURE -->
 ## Project Structure
 
-```bash
+```python
 CHAT-ROOM/
 │
-├── docs/                                          # Formal Documentation
-│   └── SPECIFICATION.md                           # Technical Architecture & Spec
+├── docs/                                    # Formal Documentation
+│   └── SPECIFICATION.md                     # Technical Architecture & Specification
 │
-├── Mini-Project/                                  # Research & Academic Assets
-│   ├── Draft/                                     # Preliminary Research Data
-│   │   └── IRJET - Chat Room.docx                 # Working Manuscript Draft
-│   ├── Figures/                                   # System Diagrams & Architecture
-│   │   ├── Fig. (1) Flow Diagram.png              # System Logic Flowchart
-│   │   ├── Fig. (2) 0 level DFD.png               # Context Level Data Flow
-│   │   ├── Fig. (3) 1 level DFD.png               # Level 1 Data Flow Diagram
-│   │   ├── Fig. (4) 2 level DFD.png               # Level 2 Data Flow Diagram
-│   │   └── Fig. (5) Comparison of Chat Room...    # Comparative Analysis Diagram
-│   ├── B-28,31,50,51_WDL_Mini_Project_Report.pdf  # Formal Academic Report
-│   ├── CHAT ROOM POSTER.png                       # Project Presentation Poster
-│   ├── Chat Room.mp4                              # Project Demonstration Video
-│   ├── IRJET-V8I6 - Chat Room.pdf                 # Published Journal Research Paper
-│   ├── Preprint - Chat Room.pdf                   # Scholarly Preprint Version
-│   ├── Presentation - Chat Room.pdf               # Technical Presentation Assets
-│   └── User Interface.png                         # Application UI Visualization
+├── Mini-Project/                            # Research & Academic Assets
+│   ├── Draft/                               # Preliminary Research Data
+│   │   └── IRJET - Chat Room.docx           # Working Manuscript Draft
+│   ├── Figures/                             # System Diagrams & Architecture
+│   │   ├── Fig. (1) Flow Diagram.png        # System Logic Flowchart
+│   │   ├── Fig. (2) 0 level DFD.png         # Context Level Data Flow
+│   │   ├── Fig. (3) 1 level DFD.png         # Level 1 Data Flow Diagram
+│   │   ├── Fig. (4) 2 level DFD.png         # Level 2 Data Flow Diagram
+│   │   └── Fig. (5) Comparison...           # Comparative Analysis Diagram
+│   ├── B-28,31,50,51_WDL_Mini_Project.pdf   # Formal Academic Report
+│   ├── CHAT ROOM POSTER.png                 # Project Presentation Poster
+│   ├── Chat Room.mp4                        # Project Demonstration Video
+│   ├── IRJET-V8I6 - Chat Room.pdf           # Published Journal Research Paper
+│   ├── Preprint - Chat Room.pdf             # Scholarly Preprint Version
+│   ├── Presentation - Chat Room.pdf         # Technical Presentation Assets
+│   └── User Interface.png                   # Application UI Visualization
 │
-├── Source Code/                                   # Real-Time Web Application (AJAX)
-│   ├── images/                                    # UI Background & Media Assets
-│   ├── sound/                                     # Audio Notification Signals
-│   ├── sql database/                              # Data Architecture (MySQL)
-│   │   └── chat_info.sql                          # Relational Database Schema
-│   ├── chat.php                                   # AJAX Message Fetching Logic
-│   ├── db.php                                     # Database Connection Liaison
-│   ├── index.php                                  # Application Entry Gateway
-│   ├── script.js                                  # Asynchronous Client Logic
-│   └── style.css                                  # Presentation Layer Styling
+├── Source Code/                             # Real-Time Web Application (AJAX)
+│   ├── images/                              # UI Background & Media Assets
+│   ├── sound/                               # Audio Notification Signals
+│   ├── sql database/                        # Data Architecture (MySQL)
+│   │   └── chat_info.sql                    # Relational Database Schema
+│   ├── chat.php                             # AJAX Message Fetching Logic
+│   ├── db.php                               # Database Connection Liaison
+│   ├── index.php                            # Application Entry Gateway
+│   ├── script.js                            # Asynchronous Client Logic
+│   └── style.css                            # Presentation Layer Styling
 │
-├── .gitattributes                                 # Global Git LFS & Config
-├── .gitignore                                     # Asset Exclusion Manifest
-├── CITATION.cff                                   # Scholarly Citation Metadata
-├── codemeta.json                                  # Machine-Readable Metadata
-├── LICENSE                                        # Project Licensing Terms
-├── README.md                                      # Comprehensive Archival Entrance
-└── SECURITY.md                                    # Vulnerability Exposure Policy
+├── .gitattributes                           # Global Git LFS & Config
+├── .gitignore                               # Asset Exclusion Manifest
+├── CITATION.cff                             # Scholarly Citation Metadata
+├── codemeta.json                            # Machine-Readable Metadata
+├── LICENSE                                  # Project Licensing Terms
+├── README.md                                # Comprehensive Archival Entrance
+└── SECURITY.md                              # Vulnerability Exposure Policy
 ```
 
 ---
@@ -281,13 +263,15 @@ Copyright © 2021 Amey Thakur, Karan Dhiman
 
 This project features the **Chat Room**, a messaging utility developed as a **5th Semester Mini-Project**. It showcases the practical application of asynchronous programming, real-time data flow, and frontend-backend integration.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
+**Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Karan Dhiman](https://github.com/Karan-Dhiman)** for his pivotal role and collaborative excellence during the development of this project. His intellectual contributions, technical insights, and dedicated commitment to software quality were fundamental in achieving the project's analytical and functional objectives. This technical record serves as a testament to his scholarly partnership and significant impact on the final implementation.
+Grateful acknowledgment to **[Karan Dhiman](https://github.com/Karan-Dhiman)** for his exceptional collaboration and technical partnership during the development of this project. His expertise in asynchronous logic and commitment to software quality were instrumental in building this real-time messaging system. Working alongside him was a transformative experience; his thoughtful approach to solving complex AJAX challenges and constant encouragement turned difficult hurdles into meaningful learning moments. This implementation serves as a testament to our shared academic journey and the insights we gained together. Thank you, Karan, for your dedication and support.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
+Grateful acknowledgment to the faculty members of the **Department of Computer Engineering** at Terna Engineering College for their guidance and instruction in Web Designing. Their expertise in frontend-backend integration and server-side scripting helped shape the technical foundation of this project.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning endeavor.
 
 ---
 
@@ -303,7 +287,9 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   ---
 
-  ### Presented as part of the 5th Semester Mini-Project @ Terna Engineering College
+  #### Presented as part of the 5th Semester Mini-Project @ Terna Engineering College
+
+  ---
 
   ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 

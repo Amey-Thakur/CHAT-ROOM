@@ -1,8 +1,8 @@
-# Technical Specification: CHAT-ROOM
+# Technical Specification: Chat Room
 
 ## Architectural Overview
 
-The **CHAT-ROOM** is a web-based real-time messaging interface developed to demonstrate asynchronous communication. It utilizes a standard LAMP/WAMP stack architecture with AJAX polling to facilitate instant message updates without page refreshes.
+The **Chat Room** is a web-based real-time messaging interface developed to demonstrate asynchronous communication. It utilizes a standard LAMP/WAMP stack architecture with AJAX polling to facilitate instant message updates without page refreshes.
 
 ### Data Lifecycle Diagram
 
