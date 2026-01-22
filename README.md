@@ -11,7 +11,7 @@
 
   A web-based real-time chat application developed using HTML, CSS, JavaScript, PHP, AJAX, and MySQL, demonstrating asynchronous communication and dynamic Document Object Model (DOM) updates.
 
-  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Project Demo](https://youtu.be/Aem0k2Dl9fU)**
+  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Project Demo](https://youtu.be/Aem0k2Dl9fU)** &nbsp;·&nbsp; **[Live Demo](https://amey-thakur.github.io/CHAT-ROOM/)**
 
   [![Demo](https://img.youtube.com/vi/Aem0k2Dl9fU/0.jpg)](https://youtu.be/Aem0k2Dl9fU)
 
@@ -285,7 +285,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  🔬 **[Web Designing Laboratory](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB)** &nbsp;·&nbsp; 💬 **[Chat Room](https://github.com/Amey-Thakur/CHAT-ROOM)**
+  🔬 **[Web Designing Laboratory](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB)** &nbsp;·&nbsp; 💬 **[Chat Room](https://amey-thakur.github.io/CHAT-ROOM/)**
 
   ---
 
