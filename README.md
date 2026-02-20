@@ -223,6 +223,13 @@ $db_name = "chat_info";
 ### 5. Launch Application
 -   Navigate to: `http://localhost/chatroom/`
 
+> [!TIP]
+> **Real-Time Asynchronous Messaging Application**
+>
+> Explore the IRJET-published research simulation featuring advanced asynchronous logic, real-time AJAX polling architecture, and a comprehensive comparative analysis of modern messaging ecosystems.
+>
+> [**Launch Live Demo**](https://amey-thakur.github.io/CHAT-ROOM/)
+
 ---
 
 <!-- =========================================================================================
