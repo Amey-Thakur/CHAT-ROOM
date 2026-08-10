@@ -1,6 +1,4 @@
 <div align="center">
-
-  <a name="readme-top"></a>
   # Chat Room
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
@@ -61,19 +59,19 @@ Developed as a mini-project for the **Web Designing Laboratory** curriculum, thi
 > - [Published Paper @IRJET](https://www.irjet.net/archives/V8/i6/IRJET-V8I6348.pdf)
 > - [Publication Certificate](Mini-Project/Publication%20Certificate.png)
 
- ### Resources
+### Resources
 
- | # | Resource | Description | Date | Marks |
- |---|---|---|---|---|
- | 1 | [**Source Code**](Source%20Code/) | Complete web application source code | — | — |
- | 2 | [**Technical Specification**](docs/SPECIFICATION.md) | System architecture and specifications | — | — |
- | 3 | [**Project Report**](Mini-Project/B-28,31,50,51_WDL_Mini_Project_Report.pdf) | Detailed documentation and system design | December 02, 2020 | 09/10 |
- | 4 | [**Project Presentation**](Mini-Project/Presentation%20-%20CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX%20PRESENTATION.pdf) | Visual overview of the development lifecycle | December 02, 2020 | 09/10 |
- | 5 | [**Project Demo (YouTube)**](https://youtu.be/Aem0k2Dl9fU) | Real-time demonstration of features | — | — |
- | 6 | [**Project Demo (MP4)**](Mini-Project/Chat%20Room.mp4) | Local video demonstration of features | — | — |
- | 7 | [**Award Certificate**](Mini-Project/IRJET%20-%20Chat%20Room%20using%20HTML,%20PHP,%20CSS,%20JS,%20AJAX.jpg) | Recognition for project excellence | — | — |
- | 8 | [**Publication Certificate**](Mini-Project/Publication%20Certificate.png) | Official journal publication certificate | — | — |
- | 9 | [**WDL Laboratory**](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) | Computer Engineering Laboratory Repository | — | — |
+| # | Resource | Description | Date | Marks |
+|---|---|---|---|---|
+| 1 | [**Source Code**](Source%20Code/) | Complete web application source code | — | — |
+| 2 | [**Technical Specification**](docs/SPECIFICATION.md) | System architecture and specifications | — | — |
+| 3 | [**Project Report**](Mini-Project/B-28,31,50,51_WDL_Mini_Project_Report.pdf) | Detailed documentation and system design | December 02, 2020 | 09/10 |
+| 4 | [**Project Presentation**](Mini-Project/Presentation%20-%20CHAT%20ROOM%20USING%20HTML,%20PHP,%20CSS,%20JS,%20AJAX%20PRESENTATION.pdf) | Visual overview of the development lifecycle | December 02, 2020 | 09/10 |
+| 5 | [**Project Demo (YouTube)**](https://youtu.be/Aem0k2Dl9fU) | Real-time demonstration of features | — | — |
+| 6 | [**Project Demo (MP4)**](Mini-Project/Chat%20Room.mp4) | Local video demonstration of features | — | — |
+| 7 | [**Award Certificate**](Mini-Project/IRJET%20-%20Chat%20Room%20using%20HTML,%20PHP,%20CSS,%20JS,%20AJAX.jpg) | Recognition for project excellence | — | — |
+| 8 | [**Publication Certificate**](Mini-Project/Publication%20Certificate.png) | Official journal publication certificate | — | — |
+| 9 | [**WDL Laboratory**](https://github.com/Amey-Thakur/WEB-DESIGNING-LAB) | Computer Engineering Laboratory Repository | — | — |
 
 > [!TIP]
 > **Asynchronous Communication Architecture**
@@ -187,7 +185,7 @@ CHAT-ROOM/
 
 ### 1. Prerequisites
 Ensure your local development environment meets the following requirements:
-- **Web Server**: Apache (via [XAMPP](https://www.apachefriends.org/index.html) or [WAMP](http://www.wampserver.com/en/)).
+- **Web Server**: Apache (via [XAMPP](https://www.apachefriends.org/index.html) or [WAMP](https://sourceforge.net/projects/wampserver/)).
 - **PHP**: Version **7.0** or higher.
 - **Database**: MySQL **5.6** or higher.
 
@@ -286,7 +284,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 <div align="center">
 
-  [↑ Back to Top](#readme-top)
+  [↑ Back to Top](#chat-room)
 
   [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--design-gallery) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
