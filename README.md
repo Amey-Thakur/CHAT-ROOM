@@ -3,10 +3,10 @@
   # Chat Room
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
-  ![Status](https://img.shields.io/badge/Status-Completed-success)
-  [![Backend](https://img.shields.io/badge/Backend-PHP%20%7C%20MySQL%20%7C%20Apache-blueviolet)](https://github.com/Amey-Thakur/CHAT-ROOM)
-  [![Frontend](https://img.shields.io/badge/Frontend-AJAX%20%7C%20Bootstrap%20%7C%20jQuery-orange)](https://github.com/Amey-Thakur/CHAT-ROOM)
-  [![Developed by Amey Thakur & Karan Dhiman](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Karan%20Dhiman-blue)](https://github.com/Amey-Thakur/CHAT-ROOM)
+  ![Status](https://img.shields.io/badge/Status-Completed-2EA043)
+  [![Backend](https://img.shields.io/badge/Backend-PHP%20%7C%20MySQL%20%7C%20Apache-8250DF)](https://github.com/Amey-Thakur/CHAT-ROOM)
+  [![Frontend](https://img.shields.io/badge/Frontend-AJAX%20%7C%20Bootstrap%20%7C%20jQuery-8250DF)](https://github.com/Amey-Thakur/CHAT-ROOM)
+  [![Developed by Amey Thakur & Karan Dhiman](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Karan%20Dhiman-0969DA)](https://github.com/Amey-Thakur/CHAT-ROOM)
 
   A web-based real-time chat application developed using HTML, CSS, JavaScript, PHP, AJAX, and MySQL, demonstrating asynchronous communication and dynamic Document Object Model (DOM) updates.
 
@@ -33,7 +33,7 @@
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
-| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/Karan-Dhiman"><img src="https://github.com/Karan-Dhiman.png" width="150" height="150" alt="Karan Dhiman"></a><br>[**Karan Dhiman**](https://github.com/Karan-Dhiman)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-Karan--Dhiman-black?style=flat&logo=github)](https://github.com/Karan-Dhiman) |
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/Karan-Dhiman"><img src="https://github.com/Karan-Dhiman.png" width="150" height="150" alt="Karan Dhiman"></a><br>[**Karan Dhiman**](https://github.com/Karan-Dhiman)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-Karan--Dhiman-181717?style=flat&logo=github)](https://github.com/Karan-Dhiman) |
 | :---: | :---: |
 
 </div>
