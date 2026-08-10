@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Chat Room - Social Preview</title>
+<!-- Renders the 1280x640 social preview from this repository's own assets. -->
+</head>
+<body>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1280px;height:640px;overflow:hidden;font-family:"Segoe UI",system-ui,sans-serif}
+.card{position:relative;width:1280px;height:640px;overflow:hidden;
+      background:url(Source%20Code/images/blue.jpg) center/cover no-repeat;background-color:#0b1c3a}
+.scrim{position:absolute;inset:0;background:linear-gradient(90deg,rgba(4,12,28,.86) 0%,rgba(4,12,28,.62) 44%,rgba(4,12,28,.20) 74%,rgba(4,12,28,.06) 100%)}
+.left{position:absolute;left:74px;top:0;bottom:0;width:520px;display:flex;flex-direction:column;justify-content:center}
+.k{font-size:14px;font-weight:700;letter-spacing:.20em;color:#7fc0ff}
+.h1{margin-top:16px;font-size:70px;font-weight:800;line-height:1.0;letter-spacing:-.025em;color:#fff}
+.rule{margin:24px 0 20px;width:84px;height:4px;background:#ff2d2d}
+.meta{font-size:17px;font-weight:600;color:#b6c9e4;line-height:1.85}
+.meta b{color:#fff;font-weight:700}
+.by{margin-top:26px;font-size:20px;font-weight:700;color:#fff}
+.by span{display:block;font-size:13px;font-weight:600;letter-spacing:.18em;color:#8fa6c4;margin-bottom:7px}
+.box{position:absolute;right:84px;top:74px;width:512px;background:url(Source%20Code/images/black.jpg) center/cover;padding:22px;
+     box-shadow:0 30px 70px rgba(0,0,0,.62)}
+.lbl{color:#fff;font-size:15px;font-family:cursive;margin-bottom:8px}
+.inp{background:#fff;border:1px solid #999;height:38px;margin-bottom:12px}
+.log{background:rgba(0,0,0,.42);border:1px solid #3a3a3a;height:300px;padding:14px 16px;
+     font:15px/1.72 cursive;color:#fff}
+.msg{margin-bottom:10px;overflow:hidden}
+.nm{color:#ff2d2d}
+.tm{float:right;color:#cfcfcf}
+.send{margin-top:14px;display:inline-block;background:#000dff;color:#fff;font:15px cursive;padding:9px 26px}
+</style>
+<div class="card">
+  <div class="scrim"></div>
+  <div class="box">
+    <div class="lbl">Name</div><div class="inp"></div>
+    <div class="lbl">Message</div><div class="inp"></div>
+    <div class="log">
+      <div class="msg"><span class="nm">Amey : </span>is the AJAX polling working now?<span class="tm">21:04</span></div>
+      <div class="msg"><span class="nm">Karan : </span>yes, every 2 seconds<span class="tm">21:04</span></div>
+      <div class="msg"><span class="nm">Amey : </span>no refresh needed?<span class="tm">21:05</span></div>
+      <div class="msg"><span class="nm">Karan : </span>none. it just appears<span class="tm">21:05</span></div>
+      <div class="msg"><span class="nm">Amey : </span>good. ship it<span class="tm">21:06</span></div>
+    </div>
+    <div class="send">Send</div>
+  </div>
+  <div class="left">
+    <div class="k">MINI PROJECT &middot; SEMESTER V &middot; CSL504</div>
+    <div class="h1">Chat Room</div>
+    <div class="rule"></div>
+    <div class="meta">A browser chat room, no page reloads<br><b>HTML &middot; PHP &middot; CSS &middot; JS &middot; AJAX &middot; MySQL &middot; 2021</b></div>
+    <div class="by"><span>DESIGNED &amp; DEVELOPED BY</span>Amey Thakur &middot; Karan Dhiman</div>
+  </div>
+</div>
+</body>
+</html>
