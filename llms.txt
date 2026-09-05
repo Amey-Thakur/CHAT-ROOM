@@ -1,0 +1,33 @@
+# Chat Room
+
+> A web-based real-time chat application developed using HTML, CSS,
+> JavaScript, PHP, AJAX, and MySQL, demonstrating asynchronous communication
+> and dynamic Document Object Model (DOM) updates.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Third Year, Semester V
+Licence: CC BY 4.0, attribution required
+Repository created: 3 November 2020
+Work dated: 19 January 2021
+
+## What is in this repository
+
+- Mini-Project, 19 files
+- Source Code, 10 files
+- docs, 1 file
+- index.html
+
+## Subject terms
+
+ajax, chat-application, chat-room, computer-engineering, computer-science,
+css, engineering, html, javascript, mysql, php, real-time-chat,
+research-paper, university-of-mumbai, web-design
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/CHAT-ROOM
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://amey-thakur.github.io/CHAT-ROOM/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/

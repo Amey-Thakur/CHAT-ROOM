@@ -33,8 +33,10 @@
             }
         }
     ],
+    "dateCreated": "2020-11-03",
     "dateReleased": "2021-01-19",
     "codeRepository": "https://github.com/Amey-Thakur/CHAT-ROOM",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
     "developmentStatus": "complete",
     "runtimePlatform": [
         "Apache",
@@ -49,6 +51,31 @@
         "AJAX",
         "Web Application",
         "Asynchronous Messaging",
-        "Computer Engineering"
-    ]
+        "Computer Engineering",
+        "Chat Application",
+        "Computer Science",
+        "CSS",
+        "Engineering",
+        "HTML",
+        "JavaScript",
+        "Real Time Chat",
+        "Research Paper",
+        "University Of Mumbai",
+        "Web Design",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "Semester V",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ],
+    "url": "https://amey-thakur.github.io/CHAT-ROOM/"
 }
